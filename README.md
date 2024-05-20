@@ -10,6 +10,9 @@
   <a href="https://github.com/RYC-98/Psyduck/network/members">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/RYC-98/Psyduck?style=social" />
   </a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=RYC-98.Psyduck">
+    <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=RYC-98.Psyduck" />
+  </a>
 </div>
 
 ## About the project 

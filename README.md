@@ -10,9 +10,11 @@
   <a href="https://github.com/RYC-98/Psyduck/network/members">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/RYC-98/Psyduck?style=social" />
   </a>
-  <a href="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RYC-98.Psyduck">
-    <img alt="visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RYC-98.Psyduck" />
+  <a href="https://api.countapi.xyz/hit/RYC-98/Psyduck">
+    <img alt="visitors" src="https://api.countapi.xyz/hit/RYC-98/Psyduck" />
   </a>
+  <br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=RYC-98.Psyduck" alt="visitor count"/>
 </div>
 
 ## About the project 

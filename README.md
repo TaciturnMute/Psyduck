@@ -10,11 +10,15 @@
   <a href="https://github.com/RYC-98/Psyduck/network/members">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/RYC-98/Psyduck?style=social" />
   </a>
-  <a href="https://api.countapi.xyz/hit/RYC-98/Psyduck">
-    <img alt="visitors" src="https://api.countapi.xyz/hit/RYC-98/Psyduck" />
+  <a href="https://visitor-badge.glitch.me/badge?page_id=RYC-98.Psyduck">
+    <img alt="GitHub page views" src="https://visitor-badge.glitch.me/badge?page_id=RYC-98.Psyduck" />
   </a>
-  <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=RYC-98.Psyduck" alt="visitor count"/>
+</div>
+
+## 访问量和 Star 数量
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=RYC-98.Psyduck" alt="Page Views" />
+  <img src="https://img.shields.io/github/stars/RYC-98/Psyduck?style=social" alt="Stars" />
 </div>
 
 ## About the project 

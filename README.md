@@ -9,6 +9,7 @@
   </a>
   <a href="https://github.com/RYC-98/Psyduck/network/members">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/RYC-98/Psyduck?style=social" />
+  </a>
 </div>
 
 

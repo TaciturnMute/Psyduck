@@ -13,4 +13,4 @@
 </div>
 
 ## About the project 
-A simple test with some pictures of Psyduck
+A simple test with some pictures of Psyduck~
